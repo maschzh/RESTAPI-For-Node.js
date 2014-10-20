@@ -1,0 +1,16 @@
+{
+  "name": "node-api",
+  "version": "0.0.1",
+  "description": "a node api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maschzh",
+  "license": "isc",
+  "despendencies":{
+  	"express":"4.9.7",
+  	"body-parser":"1.9.0",
+  	"mongoose":"3.8.7"
+  }
+}
